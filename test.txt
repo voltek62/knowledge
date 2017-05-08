@@ -1,0 +1,2 @@
+> knowledge_repo --repo knowledge create ipynb ./knowledge/test.ipynb
+
